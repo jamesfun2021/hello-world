@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi HUmans!
+
+I am a chip designer.
